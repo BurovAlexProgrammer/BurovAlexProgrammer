@@ -4,12 +4,12 @@
 [![](https://img.shields.io/badge/-@dmitry__fr-%23181717?style=flat-square&logo=gitlab)](https://gitlab.com/BurovAlexProgrammer)
 [![](https://img.shields.io/badge/--512bd4?style=flat-square&logo=dotnet)](https://github.com/BurovAlexProgrammer)
 [![](https://img.shields.io/badge/--353535?style=flat-square&logo=unity)](https://github.com/BurovAlexProgrammer)
-[![](https://img.shields.io/badge/--353535?style=flat-square&logo=golang)](https://github.com/BurovAlexProgrammer)
+[![](https://img.shields.io/badge/--353535?style=flat-square&logo=go)](https://github.com/BurovAlexProgrammer)
 
 - 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on backend .Net or Golang
 - 📫 You can reach me on [telegram ](https://t.me/burovalex88)
-- 
+
 ## Stats
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=BurovAlexProgrammer.BurovAlexProgrammer" alt="visitor badge"/>
