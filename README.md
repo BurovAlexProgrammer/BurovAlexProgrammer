@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Aleksey
-[![](https://img.shields.io/badge/-t__Optifun-4dd2ff?style=flat-square&logo=telegram)](https://t.me/burovalex88)
-[![](https://img.shields.io/badge/-@Optifun-%23181717?style=flat-square&logo=github)](https://github.com/BurovAlexProgrammer)
-[![](https://img.shields.io/badge/-@dmitry__fr-%23181717?style=flat-square&logo=gitlab)](https://gitlab.com/BurovAlexProgrammer)
+[![](https://img.shields.io/badge/-BurovAlex88-4dd2ff?style=flat-square&logo=telegram)](https://t.me/burovalex88)
+[![](https://img.shields.io/badge/-@BurovAlexProgrammer-%23181717?style=flat-square&logo=github)](https://github.com/BurovAlexProgrammer)
 [![](https://img.shields.io/badge/--512bd4?style=flat-square&logo=dotnet)](https://github.com/BurovAlexProgrammer)
 [![](https://img.shields.io/badge/--353535?style=flat-square&logo=unity)](https://github.com/BurovAlexProgrammer)
 [![](https://img.shields.io/badge/--353535?style=flat-square&logo=go)](https://github.com/BurovAlexProgrammer)
